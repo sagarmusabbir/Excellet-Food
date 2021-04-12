@@ -7,8 +7,7 @@
 	    font-size: 1.3rem;
 	}
 
-	.header-dropdown {
-	}
+
 
 	.header-dropdown {
 		padding-top: .85rem;
@@ -81,7 +80,7 @@
 
 	.header-bottom {
 		color: #fff;
-		background-color: #333;
+		background-color: #fcb941;
 
 		.menu ul, .menu .megamenu {
 			margin-top: 0;
@@ -220,3 +219,5 @@
 		}
 	}
 }
+
+@import 'header';
