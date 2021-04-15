@@ -1156,7 +1156,7 @@ blockquote {
   height: 1.5rem;
   width: .1rem;
   top: 50%;
-  background-color: #ffa500;
+  background-color: #ccc;
   transform: translateY(-50%); }
 .header-intro-clearance .header-bottom .container::after {
   position: absolute;
