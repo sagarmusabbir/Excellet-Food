@@ -21,7 +21,7 @@
   .header.header-10.header-intro-clearance .header-bottom .menu > li > a:hover::before, .header.header-10.header-intro-clearance .header-bottom .menu > li > a:focus::before {
     background-color: #cf2727; }
 .header.header-10.header-intro-clearance .header-bottom .menu > li:hover > a, .header.header-10.header-intro-clearance .header-bottom .menu > li:focus > a, .header.header-10.header-intro-clearance .header-bottom .menu > li.active > a, .header.header-10.header-intro-clearance .header-bottom .menu > li.show > a {
-  color: #cf2727; }
+  color: #fff; }
   .header.header-10.header-intro-clearance .header-bottom .menu > li:hover > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li:focus > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li.active > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li.show > a::before {
     background-color: #cf2727; }
 .header.header-10.header-intro-clearance .header-search-extended {

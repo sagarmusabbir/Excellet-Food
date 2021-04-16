@@ -16860,6 +16860,11 @@ button:focus {
 .icon-yarn:before {
   content: '\f7e3'; }
 
+
+  .header-10 .header-bottom {
+    background-color: #ffa500 !important;
+    }
+
 /* '' */
 
 /*# sourceMappingURL=style.css.map */
