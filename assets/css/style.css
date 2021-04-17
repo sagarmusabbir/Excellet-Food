@@ -1792,7 +1792,7 @@ blockquote {
   display: flex;
   align-items: center;
   position: static;
-  line-height: 1.5;
+  line-height: 2;
   flex-direction: column; }
   .menu-vertical li {
     position: relative; }
@@ -3070,7 +3070,7 @@ p {
     left: auto;
     right: 0; }
   .header-10 .header-bottom {
-    background-color: #333; }
+    background-color: #ffa500; }
     .header-10 .header-bottom .container {
       display: block; }
     .header-10 .header-bottom .col-lg-9 {
@@ -3095,8 +3095,8 @@ p {
   .header-10 .category-dropdown .dropdown-toggle {
     color: #fff;
     text-transform: capitalize;
-    font-weight: 500;
-    font-size: 1.6rem;
+    font-weight: 400;
+    font-size: 1.4rem;
     letter-spacing: -.01em;
     padding: 1.45rem 5rem 1.45rem 2rem;
     background-color: #cc9966;
@@ -16860,7 +16860,7 @@ button:focus {
 .icon-yarn:before {
   content: '\f7e3'; }
 
-
+/*
   .header-10 .header-bottom {
     background-color: #ffa500 !important;
     }
