@@ -7793,13 +7793,13 @@ a:focus {
     top: 5rem; }
   .product-label.label-sale {
     color: #fff;
-    background-color: #ef837b; }
+    background-color: #ffa500; }
   .product-label.label-new {
     color: #fff;
-    background-color: #a6c76c; }
+    background-color: #e51b17; }
   .product-label.label-top {
     color: #fff;
-    background-color: #7dd2ea; }
+    background-color:  #e51b17; }
   .product-label.label-out {
     color: #fff;
     background-color: #ccc; }
