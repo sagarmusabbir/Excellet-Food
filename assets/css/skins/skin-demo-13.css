@@ -69,8 +69,8 @@ a:focus {
   box-shadow: none; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #278bf0;
-    border-color: #278bf0;
+    background-color: #ffa500;
+    border-color: #ffa500;
     box-shadow: none; }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #fff;
