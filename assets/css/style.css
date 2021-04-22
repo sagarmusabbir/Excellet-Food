@@ -56,6 +56,102 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800");
 /* font-family: 'Poppins', sans-serif; */
 /*--------------------- 1.General Styles ---------- */
+
+
+/*--------------------- Imported from demo-13.css ---------- */
+.header.header-10.header-intro-clearance .header-dropdown-link {
+  display: flex;
+  align-items: flex-end; }
+
+.header.header-10.header-intro-clearance .compare-dropdown  {
+    padding-left: 2.4rem; }
+
+.header.header-10.header-intro-clearance .compare-dropdown .dropdown-toggle {
+      font-size: 3rem; }
+
+.header.header-10.header-intro-clearance .header-bottom .container:before {
+        visibility: hidden; }
+
+.header.header-10.header-intro-clearance .header-bottom .main-nav {
+          margin-left: 0; }
+
+.header.header-10.header-intro-clearance .header-bottom .menu > li > a::before {
+            top: unset;
+            bottom: 0; }
+.header.header-10.header-intro-clearance .header-bottom .menu > li > a:hover, .header.header-10.header-intro-clearance .header-bottom .menu > li > a:focus {
+            color: #cf2727; }
+            .header.header-10.header-intro-clearance .header-bottom .menu > li > a:hover::before, .header.header-10.header-intro-clearance .header-bottom .menu > li > a:focus::before {
+              background-color: #cf2727; }
+.header.header-10.header-intro-clearance .header-bottom .menu > li:hover > a, .header.header-10.header-intro-clearance .header-bottom .menu > li:focus > a, .header.header-10.header-intro-clearance .header-bottom .menu > li.active > a, .header.header-10.header-intro-clearance .header-bottom .menu > li.show > a {
+            color: #fff; }
+.header.header-10.header-intro-clearance .header-bottom .menu > li:hover > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li:focus > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li.active > a::before, .header.header-10.header-intro-clearance .header-bottom .menu > li.show > a::before {
+              background-color: #cf2727; }
+
+.header.header-10.header-intro-clearance .header-bottom .header-right {
+                display: flex;
+                align-items: center;
+                justify-content: flex-end; }
+.header.header-10.header-intro-clearance .header-bottom .header-right i {
+                  font-size: 1.6rem;
+                  margin-right: 2rem;
+                  color: #fff; }
+.header.header-10.header-intro-clearance .header-bottom .header-right p {
+                  font-weight: 600;
+                  letter-spacing: -.01em;
+                  color: #fff; }
+.header.header-10.header-intro-clearance .wishlist-link {
+        position: relative;
+        flex-direction: column;
+        font-size: 2.8rem; }
+
+.header.header-10.header-intro-clearance .cart-dropdown {
+          font-size: 3.2rem;
+          padding-left: 2.4rem;
+          align-items: flex-end; }
+
+.header.header-10.header-intro-clearance .header-bottom .header-right {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end; }
+      
+.header.header-10.header-intro-clearance .header-bottom .header-right i {
+              font-size: 1.6rem;
+              margin-right: 2rem;
+              color: #fff; }
+.header.header-10.header-intro-clearance .header-bottom .header-right p {
+              font-weight: 600;
+              letter-spacing: -.01em;
+              color: #fff; }
+
+.header.header-10.header-intro-clearance .header-bottom .container {
+                display: flex; }
+
+.header.header-10.header-intro-clearance .wishlist-txt,
+.header.header-10.header-intro-clearance .cart-txt,
+.header.header-10.header-intro-clearance .compare-txt {
+  font-size: 1.1rem;
+  font-weight: 300;
+  letter-spacing: 0;
+  color: #777;
+  margin-top: .3rem;
+  transition: all .3s; }
+
+  .header.header-10.header-intro-clearance .compare-dropdown [class*='count'],
+.header.header-10.header-intro-clearance .cart-dropdown [class*='count'],
+.header.header-10.header-intro-clearance .wishlist-link [class*='count'] {
+  min-width: 1.6rem;
+  height: 1.6rem;
+  position: absolute; }
+.header.header-10.header-intro-clearance .compare-dropdown .dropdown-toggle,
+.header.header-10.header-intro-clearance .cart-dropdown .dropdown-toggle,
+.header.header-10.header-intro-clearance .wishlist-link .dropdown-toggle {
+  position: relative;
+  flex-direction: column; }
+
+
+
+
+
 html {
   font-size: 62.5%;
   -webkit-text-size-adjust: 100%;
