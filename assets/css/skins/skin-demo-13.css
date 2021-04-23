@@ -471,8 +471,13 @@ a:focus {
 .btn-product {
   color: #cf2727; }
   .btn-product:hover span, .btn-product:focus span {
-    color: #fff;
+    color: #cf2727;
     box-shadow: 0 1px 0 0 #cf2727; }
+
+    
+    
+
+   
 
 .btn-product-icon {
   color: #cf2727; }
