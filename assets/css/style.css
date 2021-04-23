@@ -4963,9 +4963,7 @@ a:focus {
 .product-details-action .btn-cart {
   color: #e51b17;
   border-color: #e51b17; }
-  .product-details-action .btn-cart:hover, .product-details-action .btn-cart:focus {
-    border-color: #e51b17;
-    background-color: #e51b17; }
+  
 
 .product-details-tab .nav.nav-pills .nav-link:hover, .product-details-tab .nav.nav-pills .nav-link:focus {
   color: #e51b17;
@@ -6125,7 +6123,7 @@ a:focus {
   border-color: #e51b17; }
   .product-details-action .btn-cart:hover, .product-details-action .btn-cart:focus {
     border-color: #e51b17;
-    background-color: #e51b17; }
+    background-color: #e51b17;}
 
 .product-details-tab .nav.nav-pills .nav-link:hover, .product-details-tab .nav.nav-pills .nav-link:focus {
   color: #e51b17;
@@ -11409,7 +11407,7 @@ button:focus {
     .product-details-action .btn-cart:before {
       margin-right: .4rem; }
     .product-details-action .btn-cart:hover, .product-details-action .btn-cart:focus {
-      color: #fff;
+      color: #fff !important; 
       border-color: #e51b17;
       background-color: #e51b17; }
 

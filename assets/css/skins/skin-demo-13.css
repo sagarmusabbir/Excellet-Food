@@ -17,7 +17,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #0080ff; }
+  color: #cf2727; }
 
 .link-underline {
   box-shadow: 0 1px 0 0 #cf2727; }
@@ -471,7 +471,7 @@ a:focus {
 .btn-product {
   color: #cf2727; }
   .btn-product:hover span, .btn-product:focus span {
-    color: #cf2727;
+    color: #fff;
     box-shadow: 0 1px 0 0 #cf2727; }
 
 .btn-product-icon {
@@ -804,7 +804,9 @@ a:focus {
   border-color: #cf2727; }
   .product-details-action .btn-cart:hover, .product-details-action .btn-cart:focus {
     border-color: #cf2727;
-    background-color: #cf2727; }
+    background-color: #cf2727;
+    
+  }
 
 .product-details-tab .nav.nav-pills .nav-link:hover, .product-details-tab .nav.nav-pills .nav-link:focus {
   color: #cf2727;
