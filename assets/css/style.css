@@ -8874,8 +8874,7 @@ a:focus {
   z-index: 2;
   transform: translateY(-50%);
   -ms-transform: translateY(-50%); }
-  .banner-content a:hover, .banner-content a:focus {
-    text-decoration: underline; }
+  
 
 .banner-big .banner-content.banner-content-center,
 .banner-content-center.banner-content {
